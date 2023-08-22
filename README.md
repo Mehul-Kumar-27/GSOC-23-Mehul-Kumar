@@ -125,7 +125,24 @@ This project aims to create an automated system for monitoring vital signs, mana
 
 </div>
 
+### ✅ Adding On Call Doctor Programs in the application.
+- On call doctor program helps the parents to see the nurses, doctors and other caregivers who are currently doing their shifts and are available.
+
+<div align="center">
+
+| [Related Issue](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-neoroo/-/issues/84) | [Related Merge Request](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-neoroo/-/merge_requests/59) |
+|-----------------------|-----------------------|
+
+</div>
+
 ***
+
+### What left ? 🤔
+
+- [ ] Sending Emails to the User for conformation, password changes etc.
+- [ ] Adding feature to obtain data from the NeoWarm device. This feature would be implemented once the final design of NeoWarm jacket is available.
+- [ ] Integrating UI of some pages with the BLoC architecture.
+- [ ] Fixing bugs in the application.
 
 <details>
 <summary><h1>Uncover My Archive of Weekly Blogs 📝</h1></summary>
@@ -157,6 +174,7 @@ This project aims to create an automated system for monitoring vital signs, mana
   
 </details>
 
-
-
+### References
+- [Flutter Documentaton](https://docs.flutter.dev/)
+- [DHIS2 Documentation](https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-239/introduction.html)
 
