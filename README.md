@@ -137,7 +137,7 @@ This project aims to create an automated system for monitoring vital signs, mana
 
 ***
 
-### What left ? 🤔
+# What left ? 🤔
 
 - [ ] Sending Emails to the User for conformation, password changes etc.
 - [ ] Adding feature to obtain data from the NeoWarm device. This feature would be implemented once the final design of NeoWarm jacket is available.
