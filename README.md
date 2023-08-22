@@ -1,4 +1,7 @@
-![header](https://drive.google.com/file/d/1DFOupqyidN_zv20pintUAV1y1FLW-LqD/view?usp=drive_link)
+<div style="text-align:center;">
+  <img src="https://drive.google.com/uc?export=view&id=1DFOupqyidN_zv20pintUAV1y1FLW-LqD" alt="Your Image" />
+</div>
+
 # Google Summer Of Code'23 With LibreHealth
 This document constitutes my submission for the Google Summer of Code'23 final report. Over the course of GSoC'23, I had the privilege of collaborating with LibreHealth and making significant contributions to their NeoRoo application.
 
