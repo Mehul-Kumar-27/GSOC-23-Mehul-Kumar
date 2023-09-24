@@ -143,6 +143,9 @@ This project aims to create an automated system for monitoring vital signs, mana
 |-----------------------|-----------------------|
 
 </div>
+
+
+
 ***
 
 # What left ? 🤔
